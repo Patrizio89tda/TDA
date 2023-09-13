@@ -5,7 +5,9 @@
 * [❓ Cos'è TDA?](README.md)
   * [⛔ Disclaimer](tda-ecosystem/cose-tda/disclaimer.md)
 * [🎯 I nostri obiettivi](tda-ecosystem/i-nostri-obiettivi.md)
-* [🔴 LIVE](tda-ecosystem/live.md)
+* [🔴 LIVE](tda-ecosystem/live/README.md)
+  * [📽 Youtube](tda-ecosystem/live/youtube.md)
+  * [🔔 Telegram](tda-ecosystem/live/telegram.md)
 
 ## IL BROKER
 
